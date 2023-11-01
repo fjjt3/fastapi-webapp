@@ -2,6 +2,8 @@ fastapi==0.100.0
 uvicorn==0.22.0
 
 SQLAlchemy==2.0.13
-psycog2-binary==2.9.9
+psycog2-binary==2.9.9 # windows psycog2
 
 python-dotenv==1.0.0
+
+alembic==1.12.1
